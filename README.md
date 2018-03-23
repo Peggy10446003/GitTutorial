@@ -1,7 +1,3 @@
----
-tags: git
-
----
 # git
 
 [git](https://git-scm.com/)
